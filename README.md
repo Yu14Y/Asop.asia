@@ -1,2 +1,2 @@
 # techwise.fun
-The Repo for The main website of techwise education
+The Repo for The main website For AsopT Educaiton
